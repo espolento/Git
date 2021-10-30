@@ -1,1 +1,5 @@
-hello
+cd nextjs-blog
+
+npm run dev
+
+http://localhost:3000/
